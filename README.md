@@ -1,0 +1,12 @@
+# 设计模式
+ - [抽象工厂](typescript/src/AbstractFactory/AbstractFactory.ts)
+ - [适配器模式](typescript/src/Adapter/Adaptee.ts)
+ - [桥接模式](typescript/src/Bridge/Bridge.ts)
+ - [构建者模式](typescript/src/builder/Builder.ts)
+ - [命令模式](typescript/src/Commande/Commander.ts)
+ - [装饰器模式](typescriptsrc/Decorator/Decorator.v1.ts)
+ - [外观模式](typescript/src/Facade/Facade.ts)
+ - [工厂模式](typescript/src/Factory/Factory.ts)
+ - [迭代器模式](typescript/src/Iterator/Iterator.ts)
+ - [观察者模式](typescript/src/Observer/Observer.ts)
+ - [单例模式](typescript/src/Singler/Singler.ts)
